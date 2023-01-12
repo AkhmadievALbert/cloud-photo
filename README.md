@@ -14,10 +14,10 @@
 ### Очереди
 - vvot37-tasks
 ### Триггеры
-- vvot37-photo-trigger (сервисный аакаунт **vvot37-face-detection**)
-- vvot37-task-trigger (сервисный аккаунт **vvot37-cut-invoker**)
+- vvot37-photo-trigger
+- vvot37-task-trigger
 ### Функции
-- vvot37-face-detection (сервисный аккаунт **vvot37-face-detection**, код из файла **function/crop.py**)
-- vvot37-boot (сервисный аккаунт **vvot37-bot-function**, код из файла **function/bot.py**)
+- vvot37-face-detection
+- vvot37-boot
 ### Контейнер
-- vvot37-face-cut (сервисный аккаунт **vvot37-cut-invoker**, код из папки **container**)
+- vvot37-face-cut
